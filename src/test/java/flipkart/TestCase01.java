@@ -9,6 +9,7 @@ public class TestCase01 {
 	{
 		System.out.println("added to cart");
 		System.out.println("this is engg 1");
+		System.out.println("demo");
 	}
 	
 	@Test
