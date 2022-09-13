@@ -8,6 +8,7 @@ public class TestCase01 {
 	public void addToCart()
 	{
 		System.out.println("added to cart");
+		System.out.println("demo");
 	}
 	
 	@Test
