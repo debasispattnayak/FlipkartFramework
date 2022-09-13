@@ -9,5 +9,11 @@ public class TestCase01 {
 	{
 		System.out.println("added to cart");
 	}
+	
+	@Test
+	public void removeFromCart()
+	{
+		System.out.println("removed from cart");
+	}
 
 }
